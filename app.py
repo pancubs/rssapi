@@ -56,7 +56,7 @@ Usage
 ~~~~~
 
 curl -X POST \\
-  http://localhost:5000/posts \\
+  http://rssapi.pancubs.org/ \\
   -H 'Content-Type: application/json' \\
   -d '{
     "subscription": "https://www.stabroeknews.com/feed",
